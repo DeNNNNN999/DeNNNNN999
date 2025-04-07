@@ -53,28 +53,3 @@
 </p>
 
 ---
-
-🚀 &nbsp;**Избранные Проекты / Featured Projects** <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="LINK_TO_REPO">academic-management-system</a></h3>
-      <p><em>(Java)</em> Краткое описание: Система управления учебным процессом.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="LINK_TO_REPO">nestjs-template</a></h3>
-      <p><em>(TypeScript, NestJS)</em> Краткое описание: Стартовый шаблон для бэкенда на NestJS.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="LINK_TO_REPO">react-native-booking</a></h3>
-      <p><em>(JavaScript, React Native)</em> Краткое описание: Пример мобильного приложения для бронирования.</p>
-    </td>
-    <td width="50%" valign="top">
-       <h3><a href="LINK_TO_REPO">Telegram-bot</a></h3>
-       <p><em>(Python)</em> Краткое описание: Пример многофункционального Telegram-бота.</p>
-    </td>
-  </tr>
-  </table>
-
----
