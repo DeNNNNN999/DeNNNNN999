@@ -32,7 +32,9 @@ console.log(`👋 Привет, я ${developer.name}!`);
 
 <div align="center">
 
-### Frontend
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+
+### ⚡ Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,7 +45,7 @@ console.log(`👋 Привет, я ${developer.name}!`);
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-### Backend
+### 🚀 Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -54,7 +56,7 @@ console.log(`👋 Привет, я ${developer.name}!`);
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge)
 
-### DevOps & Инструменты | Tools
+### 🛠️ DevOps & Инструменты | Tools
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -65,6 +67,8 @@ console.log(`👋 Привет, я ${developer.name}!`);
 </div>
 
 ## 📊 Статистика GitHub | GitHub Stats
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeNNNNN999&theme=tokyo-night&hide_border=true" width="100%">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeNNNNN999&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" alt="Статистика GitHub DeNNNNN999" width="48%" />
@@ -93,9 +97,40 @@ console.log(`👋 Привет, я ${developer.name}!`);
 
 ## 🌱 Сейчас изучаю | Currently Learning
 
-- Web3 и блокчейн технологии
-- Искусственный интеллект и машинное обучение
-- Микрофронтенды и архитектура модульных приложений
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/144/000000/blockchain-technology.png" width="70px"/>
+        <br />
+        Web3 и блокчейн
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/144/000000/artificial-intelligence.png" width="70px"/>
+        <br />
+        AI и ML
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/144/000000/web-components.png" width="70px"/>
+        <br />
+        Микрофронтенды
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💼 Опыт работы | Work Experience
+
+```mermaid
+gantt
+    title Карьерный путь
+    dateFormat  YYYY
+    section Компании
+    Стартап XYZ           :2022, 2025
+    Tech Company          :2019, 2022
+    Digital Agency        :2015, 2019
+    Freelance             :2010, 2015
+```
 
 ## 📫 Связаться со мной | Contact Me
 
@@ -107,10 +142,26 @@ console.log(`👋 Привет, я ${developer.name}!`);
 
 </div>
 
+## 🎮 Небольшой fun-факт | Fun Fact
+
+<div align="center">
+  <details>
+    <summary>Нажми, чтобы увидеть мой уровень настроения в разных языках программирования 😄</summary>
+    <br />
+    <img src="https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue?style=for-the-badge&logo=react&logoColor=white" alt="React">
+    <img src="https://img.shields.io/badge/Node.js-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/CSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  </details>
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeNNNNN999&style=flat-square&color=blue" alt="Счетчик просмотров профиля" />
+  <img src="https://komarev.com/ghpvc/?username=DeNNNNN999&style=for-the-badge&color=blue" alt="Счетчик просмотров профиля" />
+  
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
   
   ### "Код — это поэзия, написанная логикой"
 </div>
