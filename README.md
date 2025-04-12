@@ -64,7 +64,7 @@ console.log(`👋 Привет, я ${developer.name}!`);
     </td>
     <td align="center" width="96">
       <a href="#frontend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
       <br>Tailwind
     </td>
@@ -90,15 +90,15 @@ console.log(`👋 Привет, я ${developer.name}!`);
     </td>
     <td align="center" width="96">
       <a href="#frontend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
       </a>
-      <br>HTML5
+      <br>Vue.js
     </td>
     <td align="center" width="96">
       <a href="#frontend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
-      <br>CSS3
+      <br>Sass
     </td>
   </tr>
 </table>
@@ -147,13 +147,13 @@ console.log(`👋 Привет, я ${developer.name}!`);
     </td>
     <td align="center" width="96">
       <a href="#backend">
-        <img src="https://prismalens.vercel.app/header/logo-dark.svg" width="48" height="48" alt="Prisma" />
+        <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="48" height="48" alt="Prisma" />
       </a>
       <br>Prisma
     </td>
     <td align="center" width="96">
       <a href="#backend">
-        <img src="https://orm.drizzle.team/img/drizzle-logo.svg" width="48" height="48" alt="Drizzle" />
+        <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="48" height="48" alt="Drizzle" />
       </a>
       <br>Drizzle
     </td>
@@ -188,19 +188,13 @@ console.log(`👋 Привет, я ${developer.name}!`);
       </a>
       <br>VS Code
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#devops">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#devops">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
-      </a>
-      <br>Nginx
     </td>
     <td align="center" width="96">
       <a href="#devops">
@@ -210,21 +204,15 @@ console.log(`👋 Привет, я ${developer.name}!`);
     </td>
     <td align="center" width="96">
       <a href="#devops">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="#devops">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
       </a>
       <br>Jest
     </td>
     <td align="center" width="96">
       <a href="#devops">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       </a>
-      <br>Bash
+      <br>MongoDB
     </td>
   </tr>
 </table>
