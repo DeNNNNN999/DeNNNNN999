@@ -28,12 +28,13 @@ const developer = {
     frontEnd: {
       js: ["React", "Next.js", "Three.js"],
       css: ["Tailwind", "CSS Modules", "Styled Components"],
-      stateManagement: ["Zustand"],
+      stateManagement: ["Zustand", "TanStack Query"],
+      animation: ["GSAP"],
       buildTools: ["Vite", "Webpack"]
     },
     backEnd: {
-      js: ["Node.js", "Express", "NestJS"],
-      databases: ["PostgreSQL", "MongoDB", "Redis"],
+      js: ["Node.js", "Express"],
+      databases: ["PostgreSQL", "Redis"],
       orms: ["Prisma", "TypeORM", "Drizzle"]
     },
     testing: ["Playwright", "Vitest", "React Testing Library"]
@@ -120,9 +121,17 @@ console.log(`👋 Привет, я ${developer.name}!`);
     </td>
     <td align="center" width="96">
       <a href="#frontend">
-        <img src="https://www.framer.com/images/favicons/favicon.png" width="65" height="65" alt="Framer Motion" style="background: white; padding: 10px; border-radius: 10px;" />
+        <img src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" width="65" height="65" alt="GSAP" />
       </a>
-      <br>Framer Motion
+      <br>GSAP
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#frontend">
+        <img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8L.png" width="65" height="65" alt="TanStack Query" style="background: white; padding: 10px; border-radius: 10px;" />
+      </a>
+      <br>TanStack Query
     </td>
   </tr>
 </table>
@@ -165,12 +174,6 @@ console.log(`👋 Привет, я ${developer.name}!`);
     </td>
     <td align="center" width="96">
       <a href="#backend">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#backend">
         <img src="https://skillicons.dev/icons?i=prisma" width="65" height="65" alt="Prisma" />
       </a>
       <br>Prisma
@@ -181,19 +184,11 @@ console.log(`👋 Привет, я ${developer.name}!`);
       </a>
       <br>TypeORM
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#backend">
         <img src="https://orm.drizzle.team/favicon.ico" width="65" height="65" alt="Drizzle" style="background: white; padding: 10px; border-radius: 10px;" />
       </a>
       <br>Drizzle
-    </td>
-    <td align="center" width="96">
-      <a href="#backend">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="65" height="65" alt="NestJS" />
-      </a>
-      <br>NestJS
     </td>
   </tr>
 </table>
@@ -335,8 +330,8 @@ console.log({
 ## 🚀 Языки и технологии | Languages & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,nestjs,threejs,tailwind,vite,webpack,graphql,postgres,mongodb,redis,prisma,docker,git,vscode,github,githubactions,vitest,express&perline=8" />
-</div>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,threejs,tailwind,vite,webpack,graphql,postgres,redis,prisma,docker,git,vscode,github,githubactions,vitest,html,css&perline=8" />
+</div></div>
 
 ---
 
@@ -344,7 +339,13 @@ console.log({
   
 ### 🎮 Когда не кодю | When I'm not coding
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31a2wt6ktkrosd7zrnqd3lzgv3xy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBxd3NrM3dxNmdteDZ0b3MxNWk5dXdlMHA1dHJlMGl4eWZiejE5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PiuL0MyzhlQv9fkNrY/giphy.gif" width="400">
+
+- 🎯 Playing video games
+- 🎵 Listening to music
+- 🚴 Cycling around the city
+- 📚 Reading tech blogs
+- 🍕 Eating pizza
 
 </div>
 
