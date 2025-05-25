@@ -28,7 +28,7 @@ const developer = {
     frontEnd: {
       js: ["React", "Next.js", "Three.js"],
       css: ["Tailwind", "CSS Modules", "Styled Components"],
-      stateManagement: ["Zustand", "TanStack Query"],
+      stateManagement: ["Zustand"],
       animation: ["GSAP"],
       buildTools: ["Vite", "Webpack"]
     },
@@ -126,14 +126,6 @@ console.log(`👋 Привет, я ${developer.name}!`);
       <br>GSAP
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#frontend">
-        <img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8L.png" width="65" height="65" alt="TanStack Query" style="background: white; padding: 10px; border-radius: 10px;" />
-      </a>
-      <br>TanStack Query
-    </td>
-  </tr>
 </table>
 
 ### 🚀 Backend
@@ -168,7 +160,7 @@ console.log(`👋 Привет, я ${developer.name}!`);
   <tr>
     <td align="center" width="96">
       <a href="#backend">
-        <img src="https://techstack-generator.vercel.app/redis-icon.svg" width="65" height="65" alt="Redis" />
+        <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
       </a>
       <br>Redis
     </td>
