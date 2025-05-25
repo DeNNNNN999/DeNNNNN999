@@ -28,9 +28,8 @@ const developer = {
     frontEnd: {
       js: ["React", "Next.js", "Three.js"],
       css: ["Tailwind", "CSS Modules", "Styled Components"],
-      stateManagement: ["Zustand", "Jotai", "TanStack Query"],
-      animation: ["Framer Motion", "React Spring", "Auto-Animate"],
-      ui: ["Chakra UI", "Mantine", "Radix UI"]
+      stateManagement: ["Zustand"],
+      buildTools: ["Vite", "Webpack"]
     },
     backEnd: {
       js: ["Node.js", "Express", "NestJS"],
@@ -57,7 +56,7 @@ console.log(`👋 Привет, я ${developer.name}!`);
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
 
 ### ⚡ Frontend
 
@@ -126,38 +125,6 @@ console.log(`👋 Привет, я ${developer.name}!`);
       <br>Framer Motion
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#frontend">
-        <img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8L.png" width="65" height="65" alt="TanStack Query" style="background: white; padding: 10px; border-radius: 10px;" />
-      </a>
-      <br>TanStack Query
-    </td>
-    <td align="center" width="96">
-      <a href="#frontend">
-        <img src="https://storage.googleapis.com/candycode/jotai/jotai-mascot.png" width="65" height="65" alt="Jotai" style="background: white; padding: 10px; border-radius: 10px;" />
-      </a>
-      <br>Jotai
-    </td>
-    <td align="center" width="96">
-      <a href="#frontend">
-        <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" width="65" height="65" alt="Chakra UI" style="background: white; padding: 10px; border-radius: 10px;" />
-      </a>
-      <br>Chakra UI
-    </td>
-    <td align="center" width="96">
-      <a href="#frontend">
-        <img src="https://mantine.dev/_next/static/media/favicon.d3411a25.svg" width="65" height="65" alt="Mantine" style="background: white; padding: 10px; border-radius: 10px;" />
-      </a>
-      <br>Mantine
-    </td>
-    <td align="center" width="96">
-      <a href="#frontend">
-        <img src="https://raw.githubusercontent.com/vercel/swr/_canary/assets/swr.png" width="65" height="65" alt="SWR" style="background: white; padding: 10px; border-radius: 10px;" />
-      </a>
-      <br>SWR
-    </td>
-  </tr>
 </table>
 
 ### 🚀 Backend
@@ -166,13 +133,13 @@ console.log(`👋 Привет, я ${developer.name}!`);
   <tr>
     <td align="center" width="96">
       <a href="#backend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="#backend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="65" height="65" alt="Express.js" />
+        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
       </a>
       <br>Express.js
     </td>
@@ -184,7 +151,7 @@ console.log(`👋 Привет, я ${developer.name}!`);
     </td>
     <td align="center" width="96">
       <a href="#backend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
     </td>
@@ -192,9 +159,21 @@ console.log(`👋 Привет, я ${developer.name}!`);
   <tr>
     <td align="center" width="96">
       <a href="#backend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="65" height="65" alt="Redis" />
+        <img src="https://techstack-generator.vercel.app/redis-icon.svg" width="65" height="65" alt="Redis" />
       </a>
       <br>Redis
+    </td>
+    <td align="center" width="96">
+      <a href="#backend">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#backend">
+        <img src="https://skillicons.dev/icons?i=prisma" width="65" height="65" alt="Prisma" />
+      </a>
+      <br>Prisma
     </td>
     <td align="center" width="96">
       <a href="#backend">
@@ -202,17 +181,19 @@ console.log(`👋 Привет, я ${developer.name}!`);
       </a>
       <br>TypeORM
     </td>
-    <td align="center" width="96">
-      <a href="#backend">
-        <img src="https://www.prisma.io/images/favicon-32x32.png" width="65" height="65" alt="Prisma" style="background: white; padding: 10px; border-radius: 10px;" />
-      </a>
-      <br>Prisma
-    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#backend">
         <img src="https://orm.drizzle.team/favicon.ico" width="65" height="65" alt="Drizzle" style="background: white; padding: 10px; border-radius: 10px;" />
       </a>
       <br>Drizzle
+    </td>
+    <td align="center" width="96">
+      <a href="#backend">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="65" height="65" alt="NestJS" />
+      </a>
+      <br>NestJS
     </td>
   </tr>
 </table>
@@ -309,27 +290,58 @@ console.log(`👋 Привет, я ${developer.name}!`);
 
 </div>
 
-## 🌟 Навыки и компетенции | Skills & Expertise
+## 💻 Мой код в действии | My Code in Action
 
 <div align="center">
   
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-Intermediate-000000?style=for-the-badge&logo=three.js&logoColor=white)
+```javascript
+// 🚀 Solving problems with elegant code
+const myApproach = () => {
+  while (true) {
+    learn();
+    code();
+    debug();
+    deploy();
+    celebrate(); 
+    repeat();
+  }
+};
 
+// 🎯 Current Status
+console.log({
+  coffeeLevel: "100%",
+  bugs: "404 Not Found",
+  features: "It's not a bug, it's a feature!",
+  productivity: "∞"
+});
+```
+
+<details>
+<summary><b>⚡ Недавняя активность | Recent Activity</b></summary>
+<br>
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR in awesome-project
+2. 💪 Opened PR in open-source-library
+3. 🐛 Fixed bug in production
+4. ✨ Released new feature
+5. 📝 Updated documentation
+<!--END_SECTION:activity-->
+
+</details>
+
+</div>
+
+## 🚀 Языки и технологии | Languages & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,nestjs,threejs,tailwind,vite,webpack,graphql,postgres,mongodb,redis,prisma,docker,git,vscode,github,githubactions,vitest,express&perline=8" />
 </div>
 
 ---
 
 <div align="center">
   
-### 💬 Случайная цитата для разработчика | Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🎮 Когда не кодю | When I'm not coding
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31a2wt6ktkrosd7zrnqd3lzgv3xy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
