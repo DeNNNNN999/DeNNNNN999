@@ -27,8 +27,10 @@ const developer = {
   technologies: {
     frontEnd: {
       js: ["React", "Next.js", "Three.js"],
-      css: ["Tailwind", "Styled Components", "CSS Modules"],
-      uiLibraries: ["Material-UI", "Ant Design", "Chakra UI"]
+      css: ["Tailwind", "CSS Modules", "Styled Components"],
+      stateManagement: ["Zustand", "Jotai", "TanStack Query"],
+      animation: ["Framer Motion", "React Spring", "Auto-Animate"],
+      ui: ["Chakra UI", "Mantine", "Radix UI"]
     },
     backEnd: {
       js: ["Node.js", "Express", "NestJS"],
@@ -55,7 +57,7 @@ console.log(`👋 Привет, я ${developer.name}!`);
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 ### ⚡ Frontend
 
@@ -113,15 +115,47 @@ console.log(`👋 Привет, я ${developer.name}!`);
     </td>
     <td align="center" width="96">
       <a href="#frontend">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" alt="Sass" />
+        <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="65" height="65" alt="Zustand" style="background: white; padding: 10px; border-radius: 10px;" />
       </a>
-      <br>Sass
+      <br>Zustand
     </td>
     <td align="center" width="96">
       <a href="#frontend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="65" height="65" alt="Redux" />
+        <img src="https://www.framer.com/images/favicons/favicon.png" width="65" height="65" alt="Framer Motion" style="background: white; padding: 10px; border-radius: 10px;" />
       </a>
-      <br>Redux
+      <br>Framer Motion
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#frontend">
+        <img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8L.png" width="65" height="65" alt="TanStack Query" style="background: white; padding: 10px; border-radius: 10px;" />
+      </a>
+      <br>TanStack Query
+    </td>
+    <td align="center" width="96">
+      <a href="#frontend">
+        <img src="https://storage.googleapis.com/candycode/jotai/jotai-mascot.png" width="65" height="65" alt="Jotai" style="background: white; padding: 10px; border-radius: 10px;" />
+      </a>
+      <br>Jotai
+    </td>
+    <td align="center" width="96">
+      <a href="#frontend">
+        <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" width="65" height="65" alt="Chakra UI" style="background: white; padding: 10px; border-radius: 10px;" />
+      </a>
+      <br>Chakra UI
+    </td>
+    <td align="center" width="96">
+      <a href="#frontend">
+        <img src="https://mantine.dev/_next/static/media/favicon.d3411a25.svg" width="65" height="65" alt="Mantine" style="background: white; padding: 10px; border-radius: 10px;" />
+      </a>
+      <br>Mantine
+    </td>
+    <td align="center" width="96">
+      <a href="#frontend">
+        <img src="https://raw.githubusercontent.com/vercel/swr/_canary/assets/swr.png" width="65" height="65" alt="SWR" style="background: white; padding: 10px; border-radius: 10px;" />
+      </a>
+      <br>SWR
     </td>
   </tr>
 </table>
@@ -280,8 +314,26 @@ console.log(`👋 Привет, я ${developer.name}!`);
 <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-Intermediate-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 </div>
+
+---
+
+<div align="center">
+  
+### 💬 Случайная цитата для разработчика | Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🎮 Когда не кодю | When I'm not coding
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31a2wt6ktkrosd7zrnqd3lzgv3xy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
