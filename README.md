@@ -277,47 +277,7 @@ console.log(`👋 Привет, я ${developer.name}!`);
 
 </div>
 
-## 💻 Мой код в действии | My Code in Action
 
-<div align="center">
-  
-```javascript
-// 🚀 Solving problems with elegant code
-const myApproach = () => {
-  while (true) {
-    learn();
-    code();
-    debug();
-    deploy();
-    celebrate(); 
-    repeat();
-  }
-};
-
-// 🎯 Current Status
-console.log({
-  coffeeLevel: "100%",
-  bugs: "404 Not Found",
-  features: "It's not a bug, it's a feature!",
-  productivity: "∞"
-});
-```
-
-<details>
-<summary><b>⚡ Недавняя активность | Recent Activity</b></summary>
-<br>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR in awesome-project
-2. 💪 Opened PR in open-source-library
-3. 🐛 Fixed bug in production
-4. ✨ Released new feature
-5. 📝 Updated documentation
-<!--END_SECTION:activity-->
-
-</details>
-
-</div>
 
 ## 🚀 Языки и технологии | Languages & Technologies
 
@@ -328,17 +288,5 @@ console.log({
 ---
 
 <div align="center">
-  
-### 🎮 Когда не кодю | When I'm not coding
-
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBxd3NrM3dxNmdteDZ0b3MxNWk5dXdlMHA1dHJlMGl4eWZiejE5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PiuL0MyzhlQv9fkNrY/giphy.gif" width="400">
-
-- 🎯 Playing video games
-- 🎵 Listening to music
-- 🚴 Cycling around the city
-- 📚 Reading tech blogs
-- 🍕 Eating pizza
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
