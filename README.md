@@ -4,7 +4,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://dennnnn999.github.io/project/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)](https://warm-stardust-cb853d.netlify.app/#/research)
 
 ### 🚀 Full-Stack Developer | 🏗️ Software Architect | 💡 Tech Enthusiast
@@ -22,7 +21,7 @@
 ```javascript
 const developer = {
   name: "DeNNNNN999",
-  role: "Senior Full-Stack Developer",
+  role: "Full-Stack Developer",
   code: ["JavaScript", "TypeScript", "Python", "SQL"],
   technologies: {
     frontEnd: {
@@ -48,8 +47,6 @@ console.log(`👋 Привет, я ${developer.name}!`);
 ```
 
 🔭 Я фокусируюсь на создании высококачественных приложений с использованием современных технологий и лучших практик разработки. 
-
-🌱 Постоянно изучаю новое в мире веб-разработки и делюсь своими знаниями с сообществом.
 
 ✨ Мой сайт: [warm-stardust-cb853d.netlify.app](https://warm-stardust-cb853d.netlify.app/#/research)
 
@@ -285,7 +282,6 @@ console.log(`👋 Привет, я ${developer.name}!`);
   <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,threejs,tailwind,vite,webpack,graphql,postgres,redis,prisma,docker,git,vscode,github,githubactions,vitest,html,css&perline=8" />
 </div></div>
 
----
 
 <div align="center">
 
