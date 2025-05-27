@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://denn999-dev.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)](https://warm-stardust-cb853d.netlify.app/#/research)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)](https://denn999-dev.netlify.app/)
 
 ### 🚀 Full-Stack Developer | 🏗️ Software Architect | 💡 Tech Enthusiast
 
