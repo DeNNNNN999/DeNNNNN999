@@ -282,7 +282,7 @@ console.log(`👋 Привет, я ${developer.name}!`);
   <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,threejs,tailwind,vite,webpack,graphql,postgres,redis,prisma,docker,git,vscode,github,githubactions,vitest,html,css&perline=8" />
 </div></div>
 
-
+sk-or-v1-e5a5049846765048e34131959e441dc6385596e6ff0dc7fcf9a5105febf8e7c
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
