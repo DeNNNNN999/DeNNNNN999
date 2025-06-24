@@ -272,7 +272,9 @@ console.log(`👋 Привет, я ${developer.name}!`);
 
 [![Project Card](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=DeNNNNN999&repo=project&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/DeNNNNN999/project)
 
+
 </div>
+
 
 ## 🚀 Языки и технологии | Languages & Technologies
 <div align="center">
