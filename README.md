@@ -274,7 +274,6 @@ console.log(`👋 Привет, я ${developer.name}!`);
 
 </div>
 
-
 ## 🚀 Языки и технологии | Languages & Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,threejs,tailwind,vite,webpack,graphql,postgres,redis,prisma,docker,git,vscode,github,githubactions,vitest,html,css&perline=8" />
