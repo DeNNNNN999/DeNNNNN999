@@ -1,23 +1,16 @@
-# Hi, I'm Denis 👋
+# Денис
 
-**Full-stack developer · TypeScript · React · Astro · Node.js**
+**Системный администратор → DevOps**
 
-I build fast, SEO-first web applications — static-first architecture,
-progressive enhancement, and no tool added before there's a real
-problem for it to solve.
+Работаю в Linux: arch-based как основная система, Debian-семейство на серверах. Поднимаю и сопровождаю сервисы, собираю их в контейнеры, пишу на Python и Bash. Двигаюсь в сторону инфраструктуры и автоматизации.
 
-<!-- TODO: имя поправь под то, как хочешь называться публично -->
+---
 
-## Stack I actually work with
+### Инструменты
 
-TypeScript · JavaScript · React · Astro · Node.js · PostgreSQL ·
-Tailwind CSS · Zod · Git
+[![Стек](https://skillicons.dev/icons?i=linux,bash,docker,git,postgres,nginx,python,ts&theme=dark)](https://skillicons.dev)
 
-## Languages
+### Сейчас разбираюсь
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeNNNNN999&layout=compact&hide_border=true&theme=dark&langs_count=6)
-
-## Contact
-
-📫 dennface@mail.ru
-<!-- TODO: LinkedIn/Telegram — если хочешь, одной строкой -->
+Сети (TCP/IP, DNS, TLS) · Linux вглубь (systemd, права, журналы) · CI/CD · мониторинг
+### Проекты
